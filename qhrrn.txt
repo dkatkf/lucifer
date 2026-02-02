@@ -340,9 +340,9 @@
                     "last_check": "2025-12-15"
                 },
                 "825253175782277132": {
-                    "xp": 646,
+                    "xp": 676,
                     "level": 16,
-                    "total_xp": 14346,
+                    "total_xp": 14376,
                     "stocks": {}
                 },
                 "1334518443172565026": {
@@ -365,9 +365,9 @@
                     "last_check": "2026-01-24"
                 },
                 "1322537875295830050": {
-                    "xp": 2559,
+                    "xp": 2579,
                     "level": 32,
-                    "total_xp": 82539,
+                    "total_xp": 82559,
                     "stocks": {},
                     "loans": [],
                     "vouchers": [],
@@ -1694,9 +1694,9 @@
         "1073131366679576576": {
             "users": {
                 "810901991303675976": {
-                    "xp": 536,
+                    "xp": 676,
                     "level": 40,
-                    "total_xp": 146136,
+                    "total_xp": 146276,
                     "apple_coins": 0,
                     "loans": [],
                     "stocks": {},
@@ -1730,9 +1730,9 @@
                     "stocks": {}
                 },
                 "1388544225335050332": {
-                    "xp": 8190,
+                    "xp": 8199,
                     "level": 37,
-                    "total_xp": 126120,
+                    "total_xp": 126129,
                     "apple_coins": 1134,
                     "stocks": {},
                     "loans": [],
@@ -1742,9 +1742,9 @@
                     "last_check": "2026-02-01"
                 },
                 "825253175782277132": {
-                    "xp": 7693,
+                    "xp": 7703,
                     "level": 43,
-                    "total_xp": 184968,
+                    "total_xp": 184978,
                     "apple_coins": 4289,
                     "loans": [],
                     "stocks": {},
@@ -5525,16 +5525,16 @@
                     "apple_coins": 0
                 },
                 "951101656328716328": {
-                    "xp": 1188,
+                    "xp": 1260,
                     "level": 31,
-                    "total_xp": 74713,
+                    "total_xp": 74785,
                     "stocks": {},
                     "loans": [],
                     "vouchers": [],
-                    "apple_coins": -1369,
-                    "total_days": 25,
-                    "streak_days": 25,
-                    "last_check": "2026-02-01"
+                    "apple_coins": -369,
+                    "total_days": 26,
+                    "streak_days": 26,
+                    "last_check": "2026-02-02"
                 },
                 "1286905718800125982": {
                     "xp": 974,
@@ -13942,9 +13942,9 @@
                     "stocks": {}
                 },
                 "1467115562089054218": {
-                    "xp": 174,
+                    "xp": 204,
                     "level": 2,
-                    "total_xp": 329,
+                    "total_xp": 359,
                     "apple_coins": 0,
                     "stocks": {}
                 },
@@ -14105,11 +14105,16 @@
                     "stocks": {}
                 },
                 "1467120543013670943": {
-                    "xp": 18,
+                    "xp": 28,
                     "level": 1,
-                    "total_xp": 18,
-                    "apple_coins": 0,
-                    "stocks": {}
+                    "total_xp": 28,
+                    "apple_coins": 1000,
+                    "stocks": {},
+                    "loans": [],
+                    "vouchers": [],
+                    "total_days": 1,
+                    "streak_days": 1,
+                    "last_check": "2026-02-02"
                 },
                 "1216019564064931994": {
                     "xp": 30,
@@ -14632,11 +14637,28 @@
                     "level": 1,
                     "total_xp": 10,
                     "vouchers": []
+                },
+                "1467752972078420001": {
+                    "xp": 75,
+                    "level": 1,
+                    "total_xp": 75
+                },
+                "1250443136476643450": {
+                    "apple_coins": 1000,
+                    "last_check": "2026-02-02",
+                    "total_days": 1,
+                    "streak_days": 1,
+                    "stocks": {},
+                    "loans": [],
+                    "xp": 10,
+                    "level": 1,
+                    "total_xp": 10,
+                    "vouchers": []
                 }
             },
             "stocks": {
                 "아침햇살": {
-                    "price": 4032,
+                    "price": 4051,
                     "initial_price": 1000,
                     "max_limit": 40000,
                     "total_supply": 100,
@@ -14645,9 +14667,6 @@
                     "risk_level": "stable",
                     "recent_trades": 0.0,
                     "price_history": [
-                        2074,
-                        1971,
-                        2042,
                         2093,
                         2173,
                         2104,
@@ -14744,7 +14763,10 @@
                         4080,
                         4237,
                         4083,
-                        4032
+                        4032,
+                        3841,
+                        3988,
+                        4051
                     ]
                 },
                 "오비탈소프트": {
@@ -14755,11 +14777,8 @@
                     "remaining": 99,
                     "status": "active",
                     "risk_level": "growth",
-                    "recent_trades": 7.602033756829732e-12,
+                    "recent_trades": 5.541882608728876e-12,
                     "price_history": [
-                        40000,
-                        34119,
-                        36235,
                         31748,
                         35654,
                         30644,
@@ -14856,6 +14875,9 @@
                         36605,
                         33569,
                         37897,
+                        40000,
+                        35771,
+                        40000,
                         40000
                     ]
                 }
@@ -30521,9 +30543,9 @@
             "excluded_ranking_roles": [],
             "users": {
                 "810901991303675976": {
-                    "xp": 882,
+                    "xp": 923,
                     "level": 16,
-                    "total_xp": 14582,
+                    "total_xp": 14623,
                     "stocks": {},
                     "savings": {
                         "balance": 0,
@@ -30555,9 +30577,9 @@
                     "stocks": {}
                 },
                 "938840186803060766": {
-                    "xp": 453,
+                    "xp": 473,
                     "level": 7,
-                    "total_xp": 2558
+                    "total_xp": 2578
                 },
                 "692017679485239316": {
                     "xp": 110,
