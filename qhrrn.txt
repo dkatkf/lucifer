@@ -1834,9 +1834,9 @@
         "1073131366679576576": {
             "users": {
                 "810901991303675976": {
-                    "xp": 2330,
+                    "xp": 2340,
                     "level": 43,
-                    "total_xp": 179605,
+                    "total_xp": 179615,
                     "apple_coins": 5032,
                     "loans": [],
                     "stocks": {
@@ -1926,20 +1926,20 @@
                     "vouchers": []
                 },
                 "1286906433933410358": {
-                    "xp": 3890,
+                    "xp": 3900,
                     "level": 30,
-                    "total_xp": 71315,
+                    "total_xp": 71325,
                     "stocks": {
                         "오비탈소프트": 40
                     },
                     "apple_coins": 4009823,
                     "loans": [],
                     "vouchers": [],
-                    "total_days": 185,
-                    "streak_days": 1,
-                    "last_check": "2026-02-08",
+                    "total_days": 186,
+                    "streak_days": 2,
+                    "last_check": "2026-02-09",
                     "savings": {
-                        "balance": 179000,
+                        "balance": 180000,
                         "level": 8
                     }
                 },
@@ -1952,9 +1952,9 @@
                     "stocks": {}
                 },
                 "807023142055968839": {
-                    "xp": 287,
+                    "xp": 327,
                     "level": 20,
-                    "total_xp": 24037,
+                    "total_xp": 24077,
                     "apple_coins": 10951,
                     "loans": [],
                     "stocks": {},
@@ -2035,9 +2035,9 @@
                     "last_check": "2026-02-08"
                 },
                 "952860031882264606": {
-                    "xp": 164,
+                    "xp": 344,
                     "level": 12,
-                    "total_xp": 7094,
+                    "total_xp": 7274,
                     "apple_coins": 4986,
                     "loans": [],
                     "stocks": {}
@@ -2226,9 +2226,9 @@
                     "last_check": "2026-01-14"
                 },
                 "757530225428004945": {
-                    "xp": 4985,
+                    "xp": 5037,
                     "level": 28,
-                    "total_xp": 61235,
+                    "total_xp": 61287,
                     "stocks": {},
                     "apple_coins": 0,
                     "loans": [],
@@ -2249,11 +2249,9 @@
                     "xp": 3299,
                     "level": 31,
                     "total_xp": 76824,
-                    "apple_coins": 56342,
+                    "apple_coins": 0,
                     "loans": [],
-                    "stocks": {
-                        "오비탈소프트": 10
-                    },
+                    "stocks": {},
                     "vouchers": [],
                     "total_days": 18,
                     "streak_days": 6,
@@ -2272,9 +2270,9 @@
                     "loans": []
                 },
                 "938840186803060766": {
-                    "xp": 2213,
+                    "xp": 2243,
                     "level": 24,
-                    "total_xp": 39933,
+                    "total_xp": 39963,
                     "stocks": {},
                     "apple_coins": 0,
                     "loans": []
@@ -3118,9 +3116,9 @@
                     "apple_coins": 0
                 },
                 "692017679485239316": {
-                    "xp": 69,
+                    "xp": 79,
                     "level": 36,
-                    "total_xp": 109619,
+                    "total_xp": 109629,
                     "stocks": {},
                     "loans": [],
                     "vouchers": [],
@@ -3882,15 +3880,15 @@
                     "stocks": {}
                 },
                 "1377894261927968770": {
-                    "apple_coins": 9806,
-                    "last_check": "2026-02-08",
-                    "total_days": 8,
-                    "streak_days": 2,
+                    "apple_coins": 10806,
+                    "last_check": "2026-02-09",
+                    "total_days": 9,
+                    "streak_days": 3,
                     "stocks": {},
                     "loans": [],
-                    "xp": 65,
+                    "xp": 95,
                     "level": 3,
-                    "total_xp": 440,
+                    "total_xp": 470,
                     "vouchers": []
                 },
                 "1324975736678776873": {
@@ -8412,9 +8410,9 @@
                     "streak_days": 4,
                     "stocks": {},
                     "loans": [],
-                    "xp": 202,
+                    "xp": 232,
                     "level": 4,
-                    "total_xp": 872,
+                    "total_xp": 902,
                     "vouchers": []
                 },
                 "1381121006885933176": {
@@ -9158,9 +9156,9 @@
                     "stocks": {}
                 },
                 "1380578063074590942": {
-                    "xp": 881,
+                    "xp": 891,
                     "level": 11,
-                    "total_xp": 6556,
+                    "total_xp": 6566,
                     "apple_coins": 3817,
                     "stocks": {},
                     "loans": [],
@@ -9417,9 +9415,9 @@
                     "stocks": {}
                 },
                 "1375751653772230666": {
-                    "xp": 77,
+                    "xp": 87,
                     "level": 1,
-                    "total_xp": 77,
+                    "total_xp": 87,
                     "stocks": {},
                     "loans": [],
                     "vouchers": [],
@@ -13613,9 +13611,9 @@
                     "streak_days": 1,
                     "stocks": {},
                     "loans": [],
-                    "xp": 416,
+                    "xp": 436,
                     "level": 15,
-                    "total_xp": 12141,
+                    "total_xp": 12161,
                     "vouchers": []
                 },
                 "1422485854928240663": {
@@ -15869,15 +15867,15 @@
                     "stocks": {}
                 },
                 "1316404013226397789": {
-                    "apple_coins": 4000,
-                    "last_check": "2026-02-08",
-                    "total_days": 4,
-                    "streak_days": 4,
+                    "apple_coins": 5000,
+                    "last_check": "2026-02-09",
+                    "total_days": 5,
+                    "streak_days": 5,
                     "stocks": {},
                     "loans": [],
-                    "xp": 50,
+                    "xp": 80,
                     "level": 1,
-                    "total_xp": 50,
+                    "total_xp": 80,
                     "vouchers": []
                 },
                 "1036981445136220171": {
@@ -16502,15 +16500,15 @@
                     "vouchers": []
                 },
                 "1038753908253798490": {
-                    "apple_coins": 1000,
-                    "last_check": "2026-02-06",
-                    "total_days": 1,
+                    "apple_coins": 2000,
+                    "last_check": "2026-02-09",
+                    "total_days": 2,
                     "streak_days": 1,
                     "stocks": {},
                     "loans": [],
-                    "xp": 10,
+                    "xp": 20,
                     "level": 1,
-                    "total_xp": 10,
+                    "total_xp": 20,
                     "vouchers": []
                 },
                 "1287027122157785109": {
@@ -18584,11 +18582,16 @@
                     "xp": 10,
                     "level": 1,
                     "total_xp": 10
+                },
+                "1465014066887131344": {
+                    "xp": 10,
+                    "level": 1,
+                    "total_xp": 10
                 }
             },
             "stocks": {
                 "아침햇살": {
-                    "price": 29791,
+                    "price": 28571,
                     "initial_price": 1000,
                     "max_limit": 30000,
                     "total_supply": 200,
@@ -18597,8 +18600,6 @@
                     "risk_level": "stable",
                     "recent_trades": 0.0,
                     "price_history": [
-                        30000,
-                        30000,
                         29250,
                         30000,
                         30000,
@@ -18696,21 +18697,21 @@
                         28555,
                         29609,
                         28649,
-                        29791
+                        29791,
+                        28965,
+                        28571
                     ]
                 },
                 "오비탈소프트": {
-                    "price": 35443,
+                    "price": 40000,
                     "initial_price": 1000,
                     "max_limit": 40000,
                     "total_supply": 200,
-                    "remaining": 154,
+                    "remaining": 164,
                     "status": "active",
                     "risk_level": "growth",
                     "recent_trades": 0.0,
                     "price_history": [
-                        38058,
-                        40000,
                         40000,
                         40000,
                         36799,
@@ -18808,7 +18809,9 @@
                         29159,
                         27505,
                         37956,
-                        35443
+                        35443,
+                        37508,
+                        40000
                     ]
                 },
                 "르닝스타": {
@@ -18821,8 +18824,6 @@
                     "risk_level": "speculative",
                     "recent_trades": 0.0,
                     "price_history": [
-                        38298,
-                        31894,
                         37653,
                         40000,
                         30100,
@@ -18920,21 +18921,21 @@
                         40000,
                         40000,
                         40000,
+                        40000,
+                        40000,
                         40000
                     ]
                 },
                 "쿠킼라면": {
-                    "price": 400,
+                    "price": 326,
                     "initial_price": 100,
                     "max_limit": 400,
                     "total_supply": 100,
                     "remaining": 0,
                     "status": "active",
                     "risk_level": "growth",
-                    "recent_trades": 4.165953662869907e-10,
+                    "recent_trades": 3.3744224669246245e-10,
                     "price_history": [
-                        230,
-                        262,
                         277,
                         316,
                         347,
@@ -19032,11 +19033,13 @@
                         400,
                         368,
                         400,
-                        400
+                        400,
+                        367,
+                        326
                     ]
                 },
                 "마고그룹": {
-                    "price": 41676,
+                    "price": 58716,
                     "initial_price": 5000,
                     "max_limit": 70000,
                     "total_supply": 60,
@@ -19045,8 +19048,6 @@
                     "risk_level": "speculative",
                     "recent_trades": 0.0,
                     "price_history": [
-                        70000,
-                        70000,
                         70000,
                         49316,
                         41680,
@@ -19144,7 +19145,9 @@
                         51649,
                         37960,
                         32798,
-                        41676
+                        41676,
+                        49994,
+                        58716
                     ]
                 }
             },
@@ -24114,8 +24117,8 @@
             },
             "high_gamble_stats": {
                 "stats": {
-                    "total_bets": 2247,
-                    "total_amount": 48349382562403540,
+                    "total_bets": 2248,
+                    "total_amount": 48349382562496590,
                     "user_stats": {
                         "807023142055968839": {
                             "win": 4,
@@ -24139,7 +24142,7 @@
                         },
                         "652912772169859072": {
                             "win": 4,
-                            "lose": 20
+                            "lose": 21
                         },
                         "1381199731526733904": {
                             "win": 1,
@@ -24492,6 +24495,12 @@
                     "amount": 9999999,
                     "time": 1770526812,
                     "status": "pending"
+                },
+                {
+                    "user_id": "652912772169859072",
+                    "amount": 20000,
+                    "time": 1770565564,
+                    "status": "pending"
                 }
             ],
             "gamble_settings": {
@@ -24500,8 +24509,8 @@
             },
             "gamble_stats": {
                 "stats": {
-                    "total_bets": 2685,
-                    "total_amount": 1100000351856053,
+                    "total_bets": 2688,
+                    "total_amount": 1100000352156053,
                     "user_stats": {
                         "1388544225335050332": {
                             "win": 56,
@@ -24529,7 +24538,7 @@
                         },
                         "652912772169859072": {
                             "win": 2,
-                            "lose": 2
+                            "lose": 5
                         },
                         "1198141527826898947": {
                             "win": 6,
@@ -33071,6 +33080,15 @@
                     "amount": 20,
                     "price": 27724,
                     "time": 1770565087
+                },
+                {
+                    "user_id": "652912772169859072",
+                    "name": "COOKIE (@NOTASTECOOKIE)",
+                    "action": "sell",
+                    "stock": "오비탈소프트",
+                    "amount": 10,
+                    "price": 35443,
+                    "time": 1770565434
                 }
             ],
             "bankers": [
