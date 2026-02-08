@@ -1834,9 +1834,9 @@
         "1073131366679576576": {
             "users": {
                 "810901991303675976": {
-                    "xp": 2340,
+                    "xp": 2410,
                     "level": 43,
-                    "total_xp": 179615,
+                    "total_xp": 179685,
                     "apple_coins": 5032,
                     "loans": [],
                     "stocks": {
@@ -1872,9 +1872,9 @@
                     "stocks": {}
                 },
                 "1388544225335050332": {
-                    "xp": 7043,
+                    "xp": 7056,
                     "level": 38,
-                    "total_xp": 133768,
+                    "total_xp": 133781,
                     "apple_coins": 10916708,
                     "stocks": {
                         "쿠킼라면": 7
@@ -1926,9 +1926,9 @@
                     "vouchers": []
                 },
                 "1286906433933410358": {
-                    "xp": 3900,
+                    "xp": 4036,
                     "level": 30,
-                    "total_xp": 71325,
+                    "total_xp": 71461,
                     "stocks": {
                         "오비탈소프트": 40
                     },
@@ -1952,10 +1952,10 @@
                     "stocks": {}
                 },
                 "807023142055968839": {
-                    "xp": 327,
+                    "xp": 438,
                     "level": 20,
-                    "total_xp": 24077,
-                    "apple_coins": 10951,
+                    "total_xp": 24188,
+                    "apple_coins": 11251,
                     "loans": [],
                     "stocks": {},
                     "vouchers": [],
@@ -2002,10 +2002,10 @@
                     "apple_coins": 0
                 },
                 "891605502201569321": {
-                    "xp": 4897,
+                    "xp": 4923,
                     "level": 44,
-                    "total_xp": 193667,
-                    "apple_coins": -5874,
+                    "total_xp": 193693,
+                    "apple_coins": -5542,
                     "loans": [
                         {
                             "amount": 20000,
@@ -2035,9 +2035,9 @@
                     "last_check": "2026-02-08"
                 },
                 "952860031882264606": {
-                    "xp": 344,
+                    "xp": 397,
                     "level": 12,
-                    "total_xp": 7274,
+                    "total_xp": 7327,
                     "apple_coins": 4986,
                     "loans": [],
                     "stocks": {}
@@ -2226,9 +2226,9 @@
                     "last_check": "2026-01-14"
                 },
                 "757530225428004945": {
-                    "xp": 5037,
+                    "xp": 5128,
                     "level": 28,
-                    "total_xp": 61287,
+                    "total_xp": 61378,
                     "stocks": {},
                     "apple_coins": 0,
                     "loans": [],
@@ -2246,9 +2246,9 @@
                     "loans": []
                 },
                 "652912772169859072": {
-                    "xp": 3299,
+                    "xp": 3325,
                     "level": 31,
-                    "total_xp": 76824,
+                    "total_xp": 76850,
                     "apple_coins": 0,
                     "loans": [],
                     "stocks": {},
@@ -2270,9 +2270,9 @@
                     "loans": []
                 },
                 "938840186803060766": {
-                    "xp": 2243,
+                    "xp": 2351,
                     "level": 24,
-                    "total_xp": 39963,
+                    "total_xp": 40071,
                     "stocks": {},
                     "apple_coins": 0,
                     "loans": []
@@ -3339,9 +3339,9 @@
                     "stocks": {}
                 },
                 "1077917918844694528": {
-                    "xp": 967,
+                    "xp": 1067,
                     "level": 18,
-                    "total_xp": 19242,
+                    "total_xp": 19342,
                     "apple_coins": 3693762,
                     "loans": [],
                     "stocks": {
@@ -3457,9 +3457,9 @@
                     "stocks": {}
                 },
                 "1147228737801310329": {
-                    "xp": 702,
+                    "xp": 712,
                     "level": 13,
-                    "total_xp": 9052,
+                    "total_xp": 9062,
                     "stocks": {},
                     "loans": [],
                     "vouchers": [],
@@ -3886,9 +3886,9 @@
                     "streak_days": 3,
                     "stocks": {},
                     "loans": [],
-                    "xp": 95,
+                    "xp": 165,
                     "level": 3,
-                    "total_xp": 470,
+                    "total_xp": 540,
                     "vouchers": []
                 },
                 "1324975736678776873": {
@@ -7493,9 +7493,9 @@
                     "stocks": {}
                 },
                 "1158371791564193874": {
-                    "xp": 141,
+                    "xp": 161,
                     "level": 2,
-                    "total_xp": 296,
+                    "total_xp": 316,
                     "apple_coins": 3000,
                     "loans": [],
                     "stocks": {},
@@ -8404,15 +8404,15 @@
                     "last_check": "2026-01-25"
                 },
                 "1076127623052279927": {
-                    "apple_coins": 1288,
+                    "apple_coins": 1646,
                     "last_check": "2026-02-09",
                     "total_days": 12,
                     "streak_days": 4,
                     "stocks": {},
                     "loans": [],
-                    "xp": 232,
+                    "xp": 322,
                     "level": 4,
-                    "total_xp": 902,
+                    "total_xp": 992,
                     "vouchers": []
                 },
                 "1381121006885933176": {
@@ -8833,9 +8833,9 @@
                     "last_check": "2026-02-08"
                 },
                 "732891257654870017": {
-                    "xp": 412,
+                    "xp": 422,
                     "level": 8,
-                    "total_xp": 3212,
+                    "total_xp": 3222,
                     "apple_coins": 2463,
                     "loans": [],
                     "stocks": {},
@@ -9156,9 +9156,9 @@
                     "stocks": {}
                 },
                 "1380578063074590942": {
-                    "xp": 891,
+                    "xp": 951,
                     "level": 11,
-                    "total_xp": 6566,
+                    "total_xp": 6626,
                     "apple_coins": 3817,
                     "stocks": {},
                     "loans": [],
@@ -9415,16 +9415,20 @@
                     "stocks": {}
                 },
                 "1375751653772230666": {
-                    "xp": 87,
+                    "xp": 97,
                     "level": 1,
-                    "total_xp": 87,
+                    "total_xp": 97,
                     "stocks": {},
                     "loans": [],
                     "vouchers": [],
-                    "apple_coins": 2000,
+                    "apple_coins": 1900,
                     "total_days": 3,
                     "streak_days": 2,
-                    "last_check": "2026-02-09"
+                    "last_check": "2026-02-09",
+                    "savings": {
+                        "balance": 100,
+                        "level": 0
+                    }
                 },
                 "1273892205139853388": {
                     "xp": 10,
@@ -13611,9 +13615,9 @@
                     "streak_days": 1,
                     "stocks": {},
                     "loans": [],
-                    "xp": 436,
+                    "xp": 538,
                     "level": 15,
-                    "total_xp": 12161,
+                    "total_xp": 12263,
                     "vouchers": []
                 },
                 "1422485854928240663": {
@@ -15693,9 +15697,9 @@
                     "vouchers": []
                 },
                 "1456942492615184465": {
-                    "xp": 15,
+                    "xp": 45,
                     "level": 2,
-                    "total_xp": 170,
+                    "total_xp": 200,
                     "apple_coins": 2288,
                     "loans": [],
                     "stocks": {}
@@ -18591,7 +18595,7 @@
             },
             "stocks": {
                 "아침햇살": {
-                    "price": 28571,
+                    "price": 29912,
                     "initial_price": 1000,
                     "max_limit": 30000,
                     "total_supply": 200,
@@ -18600,11 +18604,6 @@
                     "risk_level": "stable",
                     "recent_trades": 0.0,
                     "price_history": [
-                        29250,
-                        30000,
-                        30000,
-                        30000,
-                        30000,
                         29165,
                         29989,
                         30000,
@@ -18699,11 +18698,16 @@
                         28649,
                         29791,
                         28965,
-                        28571
+                        28571,
+                        29313,
+                        28182,
+                        27696,
+                        29061,
+                        29912
                     ]
                 },
                 "오비탈소프트": {
-                    "price": 40000,
+                    "price": 37236,
                     "initial_price": 1000,
                     "max_limit": 40000,
                     "total_supply": 200,
@@ -18712,11 +18716,6 @@
                     "risk_level": "growth",
                     "recent_trades": 0.0,
                     "price_history": [
-                        40000,
-                        40000,
-                        36799,
-                        40000,
-                        40000,
                         40000,
                         40000,
                         36518,
@@ -18811,11 +18810,16 @@
                         37956,
                         35443,
                         37508,
-                        40000
+                        40000,
+                        36685,
+                        33013,
+                        36442,
+                        32622,
+                        37236
                     ]
                 },
                 "르닝스타": {
-                    "price": 40000,
+                    "price": 15504,
                     "initial_price": 1000,
                     "max_limit": 40000,
                     "total_supply": 80,
@@ -18824,11 +18828,6 @@
                     "risk_level": "speculative",
                     "recent_trades": 0.0,
                     "price_history": [
-                        37653,
-                        40000,
-                        30100,
-                        36856,
-                        40000,
                         40000,
                         32700,
                         40221,
@@ -18923,24 +18922,24 @@
                         40000,
                         40000,
                         40000,
-                        40000
+                        40000,
+                        40000,
+                        30549,
+                        21386,
+                        19115,
+                        15504
                     ]
                 },
                 "쿠킼라면": {
-                    "price": 326,
+                    "price": 400,
                     "initial_price": 100,
                     "max_limit": 400,
                     "total_supply": 100,
                     "remaining": 0,
                     "status": "active",
                     "risk_level": "growth",
-                    "recent_trades": 3.3744224669246245e-10,
+                    "recent_trades": 1.992562722494322e-10,
                     "price_history": [
-                        277,
-                        316,
-                        347,
-                        304,
-                        269,
                         252,
                         223,
                         207,
@@ -19035,11 +19034,16 @@
                         400,
                         400,
                         367,
-                        326
+                        326,
+                        366,
+                        398,
+                        400,
+                        374,
+                        400
                     ]
                 },
                 "마고그룹": {
-                    "price": 58716,
+                    "price": 41498,
                     "initial_price": 5000,
                     "max_limit": 70000,
                     "total_supply": 60,
@@ -19048,11 +19052,6 @@
                     "risk_level": "speculative",
                     "recent_trades": 0.0,
                     "price_history": [
-                        70000,
-                        49316,
-                        41680,
-                        31083,
-                        34279,
                         38367,
                         47517,
                         60839,
@@ -19147,7 +19146,12 @@
                         32798,
                         41676,
                         49994,
-                        58716
+                        58716,
+                        45578,
+                        34673,
+                        43747,
+                        54527,
+                        41498
                     ]
                 }
             },
@@ -40932,9 +40936,9 @@
                     "total_xp": 50
                 },
                 "807023142055968839": {
-                    "xp": 927,
+                    "xp": 937,
                     "level": 9,
-                    "total_xp": 4547
+                    "total_xp": 4557
                 },
                 "1334353372568092686": {
                     "xp": 20,
@@ -42212,7 +42216,17 @@
                 1199351520735539210,
                 1447879702273331210,
                 912972652942073866
-            ]
+            ],
+            "message_counts": {},
+            "required_chat_count": 0,
+            "필요채팅량": 0,
+            "confirmation_channel_id": null,
+            "confirmation_list": [],
+            "확인목록": [],
+            "reroll_time_minutes": null,
+            "리롤시간": null,
+            "confirmation_deadline": null,
+            "확인마감": null
         },
         "event_1770300322": {
             "event_id": "event_1770300322",
@@ -42257,7 +42271,17 @@
             ],
             "reroll_winners": [
                 825253175782277132
-            ]
+            ],
+            "message_counts": {},
+            "required_chat_count": 0,
+            "필요채팅량": 0,
+            "confirmation_channel_id": null,
+            "confirmation_list": [],
+            "확인목록": [],
+            "reroll_time_minutes": null,
+            "리롤시간": null,
+            "confirmation_deadline": null,
+            "확인마감": null
         },
         "event_1770434062": {
             "event_id": "event_1770434062",
@@ -42495,7 +42519,17 @@
                 1390687399209599028,
                 1132930207133736980,
                 1371823590357467159
-            ]
+            ],
+            "message_counts": {},
+            "required_chat_count": 0,
+            "필요채팅량": 0,
+            "confirmation_channel_id": null,
+            "confirmation_list": [],
+            "확인목록": [],
+            "reroll_time_minutes": null,
+            "리롤시간": null,
+            "confirmation_deadline": null,
+            "확인마감": null
         },
         "event_1770444123": {
             "event_id": "event_1770444123",
@@ -42705,7 +42739,17 @@
             "message_id": 1469574154146549834,
             "winners": [
                 1369274715721564252
-            ]
+            ],
+            "message_counts": {},
+            "required_chat_count": 0,
+            "필요채팅량": 0,
+            "confirmation_channel_id": null,
+            "confirmation_list": [],
+            "확인목록": [],
+            "reroll_time_minutes": null,
+            "리롤시간": null,
+            "confirmation_deadline": null,
+            "확인마감": null
         },
         "event_1770444685": {
             "event_id": "event_1770444685",
@@ -43019,7 +43063,17 @@
             ],
             "reroll_winners": [
                 1466809772664946842
-            ]
+            ],
+            "message_counts": {},
+            "required_chat_count": 0,
+            "필요채팅량": 0,
+            "confirmation_channel_id": null,
+            "confirmation_list": [],
+            "확인목록": [],
+            "reroll_time_minutes": null,
+            "리롤시간": null,
+            "confirmation_deadline": null,
+            "확인마감": null
         },
         "event_1770461343": {
             "event_id": "event_1770461343",
@@ -43222,7 +43276,17 @@
             ],
             "reroll_winners": [
                 277731856349134851
-            ]
+            ],
+            "message_counts": {},
+            "required_chat_count": 0,
+            "필요채팅량": 0,
+            "confirmation_channel_id": null,
+            "confirmation_list": [],
+            "확인목록": [],
+            "reroll_time_minutes": null,
+            "리롤시간": null,
+            "confirmation_deadline": null,
+            "확인마감": null
         },
         "event_1770520599": {
             "event_id": "event_1770520599",
@@ -43400,7 +43464,17 @@
             "message_id": 1469895352562876591,
             "winners": [
                 1274001009504686080
-            ]
+            ],
+            "message_counts": {},
+            "required_chat_count": 0,
+            "필요채팅량": 0,
+            "confirmation_channel_id": null,
+            "confirmation_list": [],
+            "확인목록": [],
+            "reroll_time_minutes": null,
+            "리롤시간": null,
+            "confirmation_deadline": null,
+            "확인마감": null
         },
         "event_1770522333": {
             "event_id": "event_1770522333",
@@ -43424,7 +43498,17 @@
             "상태": "미리보기",
             "status": "미리보기",
             "참여자": [],
-            "역대당첨자": []
+            "역대당첨자": [],
+            "message_counts": {},
+            "required_chat_count": 0,
+            "필요채팅량": 0,
+            "confirmation_channel_id": null,
+            "confirmation_list": [],
+            "확인목록": [],
+            "reroll_time_minutes": null,
+            "리롤시간": null,
+            "confirmation_deadline": null,
+            "확인마감": null
         },
         "event_1770522392": {
             "event_id": "event_1770522392",
@@ -43462,7 +43546,17 @@
             ],
             "reroll_winners": [
                 825253175782277132
-            ]
+            ],
+            "message_counts": {},
+            "required_chat_count": 0,
+            "필요채팅량": 0,
+            "confirmation_channel_id": null,
+            "confirmation_list": [],
+            "확인목록": [],
+            "reroll_time_minutes": null,
+            "리롤시간": null,
+            "confirmation_deadline": null,
+            "확인마감": null
         },
         "event_1770523363": {
             "event_id": "event_1770523363",
@@ -43491,7 +43585,17 @@
             "역대당첨자": [],
             "종료시간": "2026-02-09T00:02:49.265464+09:00",
             "end_time": "2026-02-09T00:02:49.265464+09:00",
-            "message_id": 1469906294977855700
+            "message_id": 1469906294977855700,
+            "message_counts": {},
+            "required_chat_count": 0,
+            "필요채팅량": 0,
+            "confirmation_channel_id": null,
+            "confirmation_list": [],
+            "확인목록": [],
+            "reroll_time_minutes": null,
+            "리롤시간": null,
+            "confirmation_deadline": null,
+            "확인마감": null
         },
         "event_1770523446": {
             "event_id": "event_1770523446",
@@ -44079,6 +44183,72 @@
             ],
             "reroll_winners": [
                 1317130487885729867
+            ],
+            "message_counts": {},
+            "required_chat_count": 0,
+            "필요채팅량": 0,
+            "confirmation_channel_id": null,
+            "confirmation_list": [],
+            "확인목록": [],
+            "reroll_time_minutes": null,
+            "리롤시간": null,
+            "confirmation_deadline": null,
+            "확인마감": null
+        },
+        "event_1770565814": {
+            "event_id": "event_1770565814",
+            "prize_name": "테스트",
+            "winner_count": 2,
+            "duration": 180,
+            "organizer": "<@757530225428004945>",
+            "channel_id": 1379677266501697618,
+            "min_level": 0,
+            "required_role_id": null,
+            "participants": [
+                938840186803060766,
+                757530225428004945,
+                810901991303675976
+            ],
+            "상품명": "테스트",
+            "당첨자수": 2,
+            "기간": "3m",
+            "개최자": "<@757530225428004945>",
+            "채널_id": 1379677266501697618,
+            "레벨제한": 0,
+            "역할제한": null,
+            "상태": "진행중",
+            "confirmation_channel_id": 1379677266501697618,
+            "reroll_time_minutes": 1,
+            "required_chat_count": 10,
+            "필요채팅량": 10,
+            "confirmation_list": [],
+            "confirmation_deadline": "2026-02-09T00:54:18.837585+09:00",
+            "confirmation_posted": false,
+            "status": "running",
+            "참여자": [
+                938840186803060766,
+                757530225428004945,
+                810901991303675976
+            ],
+            "역대당첨자": [
+                938840186803060766,
+                810901991303675976
+            ],
+            "message_counts": {
+                "1286906433933410358": 7,
+                "757530225428004945": 13,
+                "938840186803060766": 21,
+                "810901991303675976": 14
+            },
+            "확인목록": [],
+            "리롤시간": 1,
+            "확인마감": "2026-02-09T00:54:18.837585+09:00",
+            "종료시간": "2026-02-09T00:53:17.268450+09:00",
+            "end_time": "2026-02-09T00:53:17.268450+09:00",
+            "message_id": 1470084320407453921,
+            "winners": [
+                938840186803060766,
+                810901991303675976
             ]
         }
     },
