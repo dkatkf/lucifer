@@ -1846,9 +1846,9 @@
         "1073131366679576576": {
             "users": {
                 "810901991303675976": {
-                    "xp": 9228,
+                    "xp": 9238,
                     "level": 43,
-                    "total_xp": 186503,
+                    "total_xp": 186513,
                     "apple_coins": 8763,
                     "loans": [],
                     "stocks": {
@@ -2384,9 +2384,9 @@
                     "streak_days": 3,
                     "stocks": {},
                     "loans": [],
-                    "xp": 996,
+                    "xp": 1016,
                     "level": 14,
-                    "total_xp": 10941,
+                    "total_xp": 10961,
                     "vouchers": []
                 },
                 "1312663970288635924": {
@@ -11034,9 +11034,9 @@
                     "streak_days": 4,
                     "stocks": {},
                     "loans": [],
-                    "xp": 1232,
+                    "xp": 1265,
                     "level": 29,
-                    "total_xp": 62902,
+                    "total_xp": 62935,
                     "vouchers": []
                 },
                 "1393851279142424656": {
@@ -13838,9 +13838,9 @@
                     "last_check": "2026-01-31"
                 },
                 "1458612072379318476": {
-                    "xp": 139,
+                    "xp": 159,
                     "level": 14,
-                    "total_xp": 10084,
+                    "total_xp": 10104,
                     "apple_coins": 574,
                     "loans": [],
                     "stocks": {},
@@ -14171,9 +14171,9 @@
                     "stocks": {}
                 },
                 "1466759665349296352": {
-                    "xp": 111,
+                    "xp": 131,
                     "level": 1,
-                    "total_xp": 111,
+                    "total_xp": 131,
                     "apple_coins": 0,
                     "stocks": {}
                 },
@@ -18622,9 +18622,9 @@
                     "vouchers": []
                 },
                 "1271324075893194848": {
-                    "xp": 379,
+                    "xp": 399,
                     "level": 6,
-                    "total_xp": 1904,
+                    "total_xp": 1924,
                     "stocks": {},
                     "loans": [],
                     "vouchers": [],
@@ -19194,7 +19194,7 @@
             },
             "stocks": {
                 "아침햇살": {
-                    "price": 27766,
+                    "price": 28937,
                     "initial_price": 1000,
                     "max_limit": 30000,
                     "total_supply": 200,
@@ -19203,7 +19203,6 @@
                     "risk_level": "stable",
                     "recent_trades": 0.0,
                     "price_history": [
-                        30000,
                         30000,
                         30000,
                         30000,
@@ -19302,11 +19301,12 @@
                         30000,
                         30000,
                         28793,
-                        27766
+                        27766,
+                        28937
                     ]
                 },
                 "오비탈소프트": {
-                    "price": 34378,
+                    "price": 29850,
                     "initial_price": 1000,
                     "max_limit": 40000,
                     "total_supply": 200,
@@ -19315,7 +19315,6 @@
                     "risk_level": "growth",
                     "recent_trades": 0.0,
                     "price_history": [
-                        20964,
                         24090,
                         21075,
                         23881,
@@ -19414,11 +19413,12 @@
                         32651,
                         36116,
                         40000,
-                        34378
+                        34378,
+                        29850
                     ]
                 },
                 "르닝스타": {
-                    "price": 23933,
+                    "price": 30055,
                     "initial_price": 1000,
                     "max_limit": 40000,
                     "total_supply": 80,
@@ -19427,7 +19427,6 @@
                     "risk_level": "speculative",
                     "recent_trades": 0.0,
                     "price_history": [
-                        16662,
                         18337,
                         21872,
                         27334,
@@ -19526,11 +19525,12 @@
                         15147,
                         17102,
                         19067,
-                        23933
+                        23933,
+                        30055
                     ]
                 },
                 "쿠킼라면": {
-                    "price": 255,
+                    "price": 224,
                     "initial_price": 100,
                     "max_limit": 400,
                     "total_supply": 100,
@@ -19539,7 +19539,6 @@
                     "risk_level": "growth",
                     "recent_trades": 0.0,
                     "price_history": [
-                        361,
                         391,
                         400,
                         400,
@@ -19638,11 +19637,12 @@
                         322,
                         274,
                         296,
-                        255
+                        255,
+                        224
                     ]
                 },
                 "마고그룹": {
-                    "price": 70000,
+                    "price": 56096,
                     "initial_price": 5000,
                     "max_limit": 70000,
                     "total_supply": 60,
@@ -19651,7 +19651,6 @@
                     "risk_level": "speculative",
                     "recent_trades": 0.0,
                     "price_history": [
-                        5992,
                         5205,
                         3845,
                         4513,
@@ -19750,7 +19749,8 @@
                         70000,
                         55855,
                         66113,
-                        70000
+                        70000,
+                        56096
                     ]
                 }
             },
