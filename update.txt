@@ -1,4 +1,6 @@
-# UPDATE 10
+# UPDATE 10 번역본
+-# Korean translation by momoisdog_170
+-# 오류등의 신고는 <@1423304102527631493> DM
 ## 새로운 콘텐츠
 
 ```
